@@ -43,7 +43,7 @@ The `conf.py` script contains configuration settings for the system, including t
 4. Ensure Twilio API keys are configured in `conf.py` for SMS alerts.
 
 ## License
-This project is licensed under [Your License].
+This project is licensed under flyhightej©.
 
 ## Contact
 For any issues or contributions, feel free to reach out!
